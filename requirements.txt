@@ -10,3 +10,8 @@ fastapi
 uvicorn
 
 pydantic
+
+matplotlib
+seaborn
+wordcloud
+nltk

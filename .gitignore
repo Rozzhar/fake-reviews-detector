@@ -13,3 +13,4 @@ venv/
 
 # Otros
 .DS_Store
+.vscode

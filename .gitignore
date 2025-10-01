@@ -1,4 +1,19 @@
-# Byte-compiled / optimized / DLL files
+# Ignorar datos y modelos grandes
+data/
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Entornos
+venv/
+.env
+
+# Otros
+.DS_Store
+.vscode# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class

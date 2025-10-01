@@ -1,0 +1,9 @@
+data:
+  raw_path: "data/raw/reviews.csv"
+  processed_path: "data/processed/"
+model:
+  name: "distilbert-base-uncased"
+  output_dir: "models/"
+training:
+  batch_size: 16
+  epochs: 3

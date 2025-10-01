@@ -1,0 +1,15 @@
+# Ignorar datos y modelos grandes
+data/
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Entornos
+venv/
+.env
+
+# Otros
+.DS_Store
